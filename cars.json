@@ -1,0 +1,12 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": Volvo",
+      "model": "XC90",
+      "transmission": "automatic",
+      "weight": 1530,
+      "features": ["New", "Diesel", "Allroad"],
+      "price": 55000,
+      "availability": true
+    }
